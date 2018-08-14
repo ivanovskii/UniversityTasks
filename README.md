@@ -59,4 +59,4 @@
 * Реализация стека.
 * Реализация очереди.
 * Реализация списка.
-* Реализация дека.
+* Реализация дека. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/DataStructures/Deque.pas)
