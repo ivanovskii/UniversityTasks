@@ -11,7 +11,6 @@ var
   expr: string;
   S: PNode;
   number, err: integer;
-  f: text;
 
 procedure Push(var Head: PNode; x: integer);
 var
@@ -58,8 +57,6 @@ begin
 end;
 
 begin
-  assign(f, 'input.txt');
-  reset(f);
   S := nil;
   while not EOF(F) do
   begin
@@ -82,5 +79,4 @@ begin
     end else break;
   end;
   show(S);
-  close(f);
 end.
