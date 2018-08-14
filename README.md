@@ -58,5 +58,5 @@
 * Работа с файлами. Задача L. Второй тур-4.
 * Реализация стека. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/DataStructures/Stack.pas)
 * Реализация очереди. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/DataStructures/Queue.pas)
-* Реализация списка.
+* Реализация списка. Алфавитно-частотный словарь. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/DataStructures/Lists)
 * Реализация дека. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/DataStructures/Deque.pas)
