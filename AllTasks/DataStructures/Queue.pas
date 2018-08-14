@@ -14,7 +14,6 @@ var
   expr: string;
   Q: Queue;
   number, err: integer;
-  f: text;
 
 procedure PushTail(var Q: Queue; x: integer);
 var NewNode: PNode;
@@ -60,8 +59,6 @@ begin
 end;
 
 begin
-  assign(f, 'input2.txt');
-  reset(f);
   Q.tail:= nil;
   Q.head:= nil;
   while true do
@@ -84,6 +81,5 @@ begin
       end
     end else break;
   end;
-  show(Q);
-  close(f);
+  show(Q);;
 end.
