@@ -7,7 +7,7 @@ type
   end;
 
 var
-  competition: array [0..1000] of participant; //Ìàññèâ ó÷àñòíèêîâ
+  competition: array [0..1000] of participant; //ÃŒÃ Ã±Ã±Ã¨Ã¢ Ã³Ã·Ã Ã±Ã²Ã­Ã¨ÃªÃ®Ã¢
   f1, f2: text;
   time, err, i, k, count: integer;
   str: string;
@@ -21,16 +21,16 @@ begin
   readln(f1, k);
   while not EOF(f1) do //
   begin
-    readln(f1, str); //Ñ÷èòûâàåì ñòðîêó
-    competition[i].name := copy(str, 1, pos(' ', str)); //Çàïîìèíàåì èìÿ
-    delete(str, 1, length(competition[i].name)); //Óäàëÿåì èç ñòðîêè
+    readln(f1, str); //Ã‘Ã·Ã¨Ã²Ã»Ã¢Ã Ã¥Ã¬ Ã±Ã²Ã°Ã®ÃªÃ³
+    competition[i].name := copy(str, 1, pos(' ', str)); //Ã‡Ã Ã¯Ã®Ã¬Ã¨Ã­Ã Ã¥Ã¬ Ã¨Ã¬Ã¿
+    delete(str, 1, length(competition[i].name)); //Ã“Ã¤Ã Ã«Ã¿Ã¥Ã¬ Ã¨Ã§ Ã±Ã²Ã°Ã®ÃªÃ¨
     competition[i].fname := copy(str, 1, pos(' ', str));
     delete(str, 1, length(competition[i].fname));
-    val(str, competition[i].point, err); //Ïðåîáðàçóåì îñòàâøóþñÿ ÷àñòü ñòðîêè â ÷èñëî è çàïîìèíàåì êàê î÷êè
+    val(str, competition[i].point, err); //ÃÃ°Ã¥Ã®Ã¡Ã°Ã Ã§Ã³Ã¥Ã¬ Ã®Ã±Ã²Ã Ã¢Ã¸Ã³Ã¾Ã±Ã¿ Ã·Ã Ã±Ã²Ã¼ Ã±Ã²Ã°Ã®ÃªÃ¨ Ã¢ Ã·Ã¨Ã±Ã«Ã® Ã¨ Ã§Ã Ã¯Ã®Ã¬Ã¨Ã­Ã Ã¥Ã¬ ÃªÃ Ãª Ã®Ã·ÃªÃ¨
     i += 1;
   end;
   
-  for var h := 0 to i - 1 do //Ñîðòèðîâêà ïî âîçðàñòàíèþ ïóçûðüêîì ïî î÷êàì
+  for var h := 0 to i - 1 do //Ã‘Ã®Ã°Ã²Ã¨Ã°Ã®Ã¢ÃªÃ  Ã¯Ã® Ã¢Ã®Ã§Ã°Ã Ã±Ã²Ã Ã­Ã¨Ã¾ Ã¯Ã³Ã§Ã»Ã°Ã¼ÃªÃ®Ã¬ Ã¯Ã® Ã®Ã·ÃªÃ Ã¬
     for var j := 0 to i - 2 - h do
       if competition[j].point > competition[j + 1].point then
       begin
