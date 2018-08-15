@@ -10,7 +10,7 @@
 * Определение выпуклости многоугольника и его площади, заданного на координатной плоскости. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Geometry/PolygonIsConvex.cpp)
 * Машинки. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/ConsoleCars)
 * Минимальная окружность, покрывающее заданное множество точек. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/Geometry/MinDisk)
-###### Не выполненные:
+###### Невыполненные:
 * Хеш-таблицы с открытой адресацией
 * [Pink Floid](https://informatics.mccme.ru/mod/statements/view3.php?id=218&chapterid=2598#1)
 * Графы. Алгоритм Дейкстры
@@ -35,7 +35,7 @@
 * Задача коммивояжёра (обычный перебор). [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Graph/TravelingSalesmanProblem/TravellingSalesman.cpp)
 * RLE сжатие. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/CompressionAlgorithms/RLE)
 * Кодирование Хаффмана. 
-###### Не выполненные:
+###### Невыполненные:
 * [Сортировки](https://hackmd.io/s/B1zCbjLOz#90318-%D0%A1%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8)
 * [Реализация Б-деревьев](https://hackmd.io/s/B1zCbjLOz#130418-B-%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE)
 * [Графы. Получи дерево](https://informatics.msk.ru/mod/statements/view3.php?id=261&chapterid=182)
@@ -59,7 +59,7 @@
 * Целочисленные алгоритмы. [Задача A](https://informatics.msk.ru/mod/statements/view3.php?id=11528&chapterid=112450#1). Решето Эратосфена. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/EratosthenesSieve.cpp)
 * Целочисленные алгоритмы. [Задача D](https://informatics.msk.ru/mod/statements/view3.php?id=11528&chapterid=112453). Простые с одинаковой первой и последней цифрами. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/SimpleNum%20(same%20f%20and%20l).cpp)
 * Целочисленные алгоритмы. [Задача M](https://informatics.msk.ru/mod/statements/view3.php?id=11528&chapterid=112462). Сложение длинных чисел. [[**Python**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/SumOf2Num.py)
-###### Не выполненные:
+###### Невыполненные:
 * [Деление длинного на короткое](https://informatics.msk.ru/mod/statements/view3.php?id=11528&chapterid=112465#1)
 * [Проверка на неориентированность](https://informatics.mccme.ru/mod/statements/view.php?id=7868)
 * [Разрезанный прямоугольник](https://informatics.msk.ru/mod/statements/view3.php?id=1157&chapterid=458#1)
