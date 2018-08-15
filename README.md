@@ -53,9 +53,9 @@
 * Динамические массивы. [Задача F](http://informatics.mccme.ru/mod/statements/view3.php?id=11545&chapterid=112487). Сжатие массива неизвестной длины. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/SimpleTasks/DinArrCompact)
 * Структуры. [Задача C](http://informatics.mccme.ru/mod/statements/view3.php?id=279&chapterid=324). Диаметр множества. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/DiameterOfSet.pas)
 * Структуры. [Задача F](https://informatics.msk.ru/mod/statements/view3.php?id=279&chapterid=327). Максимальная площадь. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/MaxArea.pas)
-* Работа с файлами. Задача B. Минимум и максимум в файле.
-* Работа с файлами. Задача I. Кто прошел на следующий тур?
-* Работа с файлами. Задача L. Второй тур-4.
+* Работа с файлами. [Задача B](https://informatics.msk.ru/mod/statements/view3.php?id=11405&chapterid=112392). Минимум и максимум в файле. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/SimpleTasks/MinMaxInFile)
+* Работа с файлами. [Задача I](https://informatics.msk.ru/mod/statements/view3.php?id=11405&chhttp://informatics.mccme.ru/mod/statements/view3.php?id=11405&chapterid=112399apterid=112392). Кто прошел на следующий тур? [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/SimpleTasks/NextTour)
+* Работа с файлами. [Задача L](https://informatics.msk.ru/mod/statements/view3.php?id=11405&chapterid=112402). Второй тур-4. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/SimpleTasks/NextTour4)
 * Реализация стека. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/DataStructures/Stack.pas) [[**С++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/DataStructures/Stack.cpp)
 * Реализация очереди. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/DataStructures/Queue.pas)
 * Реализация списка. Алфавитно-частотный словарь. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/DataStructures/Lists)
