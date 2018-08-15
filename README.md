@@ -51,8 +51,8 @@
 ### Языки и методы программирования. Кан Владимир Алексеевич.
 * Динамические массивы. Задача B. Сортировка массива неизвестной длины - 2.
 * Динамические массивы. Задача F. Сжатие массива неизвестной длины.
-* Структуры. [Задача C](http://informatics.mccme.ru/mod/statements/view3.php?id=279&chapterid=324). Диаметр множества.
-* Структуры. [Задача F](https://informatics.msk.ru/mod/statements/view3.php?id=279&chapterid=327). Максимальная площадь.
+* Структуры. [Задача C](http://informatics.mccme.ru/mod/statements/view3.php?id=279&chapterid=324). Диаметр множества. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/DiameterOfSet.pas)
+* Структуры. [Задача F](https://informatics.msk.ru/mod/statements/view3.php?id=279&chapterid=327). Максимальная площадь. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/MaxArea.pas)
 * Работа с файлами. Задача B. Минимум и максимум в файле.
 * Работа с файлами. Задача I. Кто прошел на следующий тур?
 * Работа с файлами. Задача L. Второй тур-4.
