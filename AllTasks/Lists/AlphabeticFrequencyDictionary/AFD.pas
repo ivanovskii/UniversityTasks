@@ -13,22 +13,22 @@ var
   F: text;
   count: integer;
 
-function GetWord(F: Text): string; //Функция считывающая слово из файла
+function GetWord(F: Text): string; //Г”ГіГ­ГЄГ¶ГЁГї Г±Г·ГЁГІГ»ГўГ ГѕГ№Г Гї Г±Г«Г®ГўГ® ГЁГ§ ГґГ Г©Г«Г 
 var
   c: char;
 begin
-  Result := ''; //пустая строка
-  c := ' '; //пробел – чтобы войти в цикл
-  while not eof(f) and (c <= ' ') do //пропускаем спецсимволы и пробелы
+  Result := ''; //ГЇГіГ±ГІГ Гї Г±ГІГ°Г®ГЄГ 
+  c := ' '; //ГЇГ°Г®ГЎГҐГ« вЂ“ Г·ГІГ®ГЎГ» ГўГ®Г©ГІГЁ Гў Г¶ГЁГЄГ«
+  while not eof(f) and (c <= ' ') do //ГЇГ°Г®ГЇГіГ±ГЄГ ГҐГ¬ Г±ГЇГҐГ¶Г±ГЁГ¬ГўГ®Г«Г» ГЁ ГЇГ°Г®ГЎГҐГ«Г»
     read(F, c);  
-  while not eof(f) and (c > ' ') do //читаем слово
+  while not eof(f) and (c > ' ') do //Г·ГЁГІГ ГҐГ¬ Г±Г«Г®ГўГ®
   begin
     Result += c;
     read(F, c);
   end;
 end;
 
-function Find(Head: PNode; NewWord: string): PNode; //Возвращает указатель на узел, в котором данные равны строковому параметру
+function Find(Head: PNode; NewWord: string): PNode; //Г‚Г®Г§ГўГ°Г Г№Г ГҐГІ ГіГЄГ Г§Г ГІГҐГ«Гј Г­Г  ГіГ§ГҐГ«, Гў ГЄГ®ГІГ®Г°Г®Г¬ Г¤Г Г­Г­Г»ГҐ Г°Г ГўГ­Г» Г±ГІГ°Г®ГЄГ®ГўГ®Г¬Гі ГЇГ Г°Г Г¬ГҐГІГ°Гі
 var
   q: PNode;
 begin
@@ -38,7 +38,7 @@ begin
   Result := q;
 end;
 
-function CreateNode(NewWord: string): PNode; //Создающая узел и возвращающая указатель на него
+function CreateNode(NewWord: string): PNode; //Г‘Г®Г§Г¤Г ГѕГ№Г Гї ГіГ§ГҐГ« ГЁ ГўГ®Г§ГўГ°Г Г№Г ГѕГ№Г Гї ГіГЄГ Г§Г ГІГҐГ«Гј Г­Г  Г­ГҐГЈГ®
 var
   NewNode: PNode;
 begin
@@ -49,7 +49,7 @@ begin
   Result := NewNode;
 end;
 
-function FindPlace(Head: PNode; NewWord: string): PNode; //Возвращает указатель на последний элемент в алфавитном порядке
+function FindPlace(Head: PNode; NewWord: string): PNode; //Г‚Г®Г§ГўГ°Г Г№Г ГҐГІ ГіГЄГ Г§Г ГІГҐГ«Гј Г­Г  ГЇГ®Г±Г«ГҐГ¤Г­ГЁГ© ГЅГ«ГҐГ¬ГҐГ­ГІ Гў Г Г«ГґГ ГўГЁГІГ­Г®Г¬ ГЇГ®Г°ГїГ¤ГЄГҐ
 var
   q: PNode;
 begin
@@ -59,13 +59,13 @@ begin
   Result := q;
 end;
 
-procedure AddFirst(var Head: PNode; NewNode: PNode); //Процедура добавления узла в начало списка
+procedure AddFirst(var Head: PNode; NewNode: PNode); //ГЏГ°Г®Г¶ГҐГ¤ГіГ°Г  Г¤Г®ГЎГ ГўГ«ГҐГ­ГЁГї ГіГ§Г«Г  Гў Г­Г Г·Г Г«Г® Г±ГЇГЁГ±ГЄГ 
 begin
   NewNode^.next := Head;
   Head := NewNode;
 end;
 
-procedure AddAfter(p, NewNode: PNode ); //Процедура добавление узла после заданного
+procedure AddAfter(p, NewNode: PNode ); //ГЏГ°Г®Г¶ГҐГ¤ГіГ°Г  Г¤Г®ГЎГ ГўГ«ГҐГ­ГЁГҐ ГіГ§Г«Г  ГЇГ®Г±Г«ГҐ Г§Г Г¤Г Г­Г­Г®ГЈГ®
 begin
   NewNode^.next := p^.next;
   p^.next := NewNode;
@@ -80,7 +80,7 @@ begin
     AddFirst(Head, NewNode )
   else
   begin
-    while (temp <> nil) and (temp^.next <> q) do //находим предыдущий узел
+    while (temp <> nil) and (temp^.next <> q) do //Г­Г ГµГ®Г¤ГЁГ¬ ГЇГ°ГҐГ¤Г»Г¤ГіГ№ГЁГ© ГіГ§ГҐГ«
       temp := temp^.next;
     if temp <> nil then AddAfter(temp, NewNode);
   end;
