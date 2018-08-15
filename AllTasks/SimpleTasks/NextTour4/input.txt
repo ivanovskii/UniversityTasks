@@ -1,5 +1,0 @@
-80
-Smith Jack 80
-Cormen Alex 92
-Knuth Donald 98
-Mirabella Maria 78
