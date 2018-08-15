@@ -17,10 +17,9 @@
 * Двоичное дерево поиска.
 * Разбор арифметических операций.
 * AVL дерево.
-* Комбинаторика. Задача F. Все перестановки заданной длины.
-* Комбинаторика. Задача D. Следующая...
-* Комбинаторика. Задача M. Разбиение на неубывающие слагаемые, обратный порядок.
-* Комбинаторика. Задача B. Степень перестановки.
+* Комбинаторика. [Задача F](https://informatics.msk.ru/mod/statements/view3.php?id=211&chapterid=85#1). Все перестановки заданной длины. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Combinatorics/GenerationPermutations.cpp)
+* Комбинаторика. [Задача D](https://informatics.msk.ru/mod/statements/view3.php?id=264&chapterid=194#1). Следующая... [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Combinatorics/NextPermutation.cpp)
+* Комбинаторика. [Задача M](https://informatics.msk.ru/mod/statements/view3.php?id=211&chapterid=92#1). Разбиение на неубывающие слагаемые, обратный порядок. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Combinatorics/DecompositionIntoTerms.cpp)
 * Графы. Задача C. Заправки.
 * Графы. Задача D. Есть ли цикл?
 * Графы. Задача H. Два профессора.
@@ -29,6 +28,8 @@
 * Задача коммивояжёра (обычный перебор).
 * RLE сжатие.
 * Кодирование Хаффмана. 
+###### Не выполненные:
+* [Степень перестановки](https://informatics.msk.ru/mod/statements/view3.php?id=265&chapterid=196#1)
 ## 1 курс 1 семестр МКН. 2017-2018 гг. 
 ###### _ИВТ -> МКН_
 ### ООП. Коваленко Евгений Олегович. [[Сайт]](https://hackmd.io/s/ByuCAi-pW#)
@@ -49,9 +50,9 @@
 * Целочисленные алгоритмы. [Задача D](https://informatics.msk.ru/mod/statements/view3.php?id=11528&chapterid=112453). Простые с одинаковой первой и последней цифрами. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/SimpleNum%20(same%20f%20and%20l).cpp)
 * Целочисленные алгоритмы. [Задача M](https://informatics.msk.ru/mod/statements/view3.php?id=11528&chapterid=112462). Сложение длинных чисел. [[**Python**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/SumOf2Num.py)
 ###### Не выполненные:
-* [Разрезанный прямоугольник](https://informatics.msk.ru/mod/statements/view3.php?id=1157&chapterid=458#1)
 * [Деление длинного на короткое](https://informatics.msk.ru/mod/statements/view3.php?id=11528&chapterid=112465#1)
 * [Проверка на неориентированность](https://informatics.mccme.ru/mod/statements/view.php?id=7868)
+* [Разрезанный прямоугольник](https://informatics.msk.ru/mod/statements/view3.php?id=1157&chapterid=458#1)
 * [XOR](https://informatics.msk.ru/mod/statements/view3.php?id=&chapterid=112792#1)
 ### Языки и методы программирования. Кан Владимир Алексеевич.
 * Динамические массивы. [Задача B](http://informatics.mccme.ru/mod/statements/view3.php?id=11545&chapterid=112483). Сортировка массива неизвестной длины - 2. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/FundDataStruct/DynamicArrays/SortingOfDinArr.pas)
