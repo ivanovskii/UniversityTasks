@@ -35,7 +35,7 @@
 * [Задача P](https://informatics.mccme.ru/mod/statements/view3.php?id=5765&chapterid=111377). Ходы ферзя. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/Chess.pas)
 ### Практикум по алгоритмизации. Малыкина Ирина Анатольевна.
 * Ветвления. [Задача Q](https://informatics.msk.ru/mod/statements/view3.php?id=11144&chapterid=112172#1). Точка 8. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/Point8.cpp)
-* Геометрия. [Задача K](). В каком ухе жужжит? [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/Humming.cpp)
+* Геометрия. [Задача K](https://informatics.msk.ru/mod/statements/view3.php?id=9308&chapterid=1353#1). В каком ухе жужжит? [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/Humming.cpp)
 * [Задача №128](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=128). Определить значение бита. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/BitValue.cpp)
 * [Задача №129](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=129). Вывести значение байта побитно. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/ByteValBitByBit.cpp)
 * Массивы. [Задача G](https://informatics.msk.ru/mod/statements/view3.php?id=208&chapterid=69#1). Переставить элементы в обратном порядке. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/ReverseArr.cpp)
