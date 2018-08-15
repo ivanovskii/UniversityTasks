@@ -56,7 +56,7 @@
 * Работа с файлами. Задача B. Минимум и максимум в файле.
 * Работа с файлами. Задача I. Кто прошел на следующий тур?
 * Работа с файлами. Задача L. Второй тур-4.
-* Реализация стека. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/DataStructures/Stack.pas)[[**С++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/DataStructures/Stack.cpp)
+* Реализация стека. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/DataStructures/Stack.pas) [[**С++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/DataStructures/Stack.cpp)
 * Реализация очереди. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/DataStructures/Queue.pas)
 * Реализация списка. Алфавитно-частотный словарь. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/DataStructures/Lists)
 * Реализация дека. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/DataStructures/Deque.pas)
