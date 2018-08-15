@@ -12,22 +12,23 @@
 * Машинки.
 * Минимальная окружность, покрывающее заданное множество точек.
 ### Языки и методы программирования. Коваленко Евгений Олегович. [[Сайт]](https://hackmd.io/s/B1zCbjLOz#)
-* Хеш-таблица методом цепочек.
-* Сортировка подсчетом.
-* Двоичное дерево поиска.
-* Разбор арифметических операций.
-* AVL дерево.
+* Хеш-таблица методом цепочек. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/HashTables/HashTable_with_chains)
+* Двоичное дерево поиска. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/Trees/BinarySearchThree)
+* Разбор арифметических операций. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/Trees/Parsing%20of%20arithmetic%20expressions)
+* AVL дерево. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/Trees/AVL%20Tree)
 * Комбинаторика. [Задача F](https://informatics.msk.ru/mod/statements/view3.php?id=211&chapterid=85#1). Все перестановки заданной длины. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Combinatorics/GenerationPermutations.cpp)
 * Комбинаторика. [Задача D](https://informatics.msk.ru/mod/statements/view3.php?id=264&chapterid=194#1). Следующая... [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Combinatorics/NextPermutation.cpp)
 * Комбинаторика. [Задача M](https://informatics.msk.ru/mod/statements/view3.php?id=211&chapterid=92#1). Разбиение на неубывающие слагаемые, обратный порядок. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Combinatorics/DecompositionIntoTerms.cpp)
 * Графы. [Задача C](https://informatics.msk.ru/mod/statements/view3.php?id=193&chapterid=7#1). Заправки. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Graph/GasStation.cpp)
 * Графы. [Задача D](https://informatics.msk.ru/mod/statements/view3.php?id=218&chapterid=98#1). Есть ли цикл? [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Graph/isCycle.cpp)
 * Графы. [Задача H](https://informatics.msk.ru/mod/statements/view3.php?id=218&chapterid=1334). Два профессора. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Graph/2Proffesors.cpp)
-* Функции. Решение f(x) = 0.
-* Задача коммивояжёра (обычный перебор).
-* RLE сжатие.
+* Функции. Решение f(x) = 0. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/NumericalAlgorithms)
+* Задача коммивояжёра (обычный перебор). [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Graph/TravelingSalesmanProblem/TravellingSalesman.cpp)
+* RLE сжатие. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/CompressionAlgorithms/RLE)
 * Кодирование Хаффмана. 
 ###### Не выполненные:
+* [Сортировки](https://hackmd.io/s/B1zCbjLOz#90318-%D0%A1%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8)
+* [Реализация Б-деревьев](https://hackmd.io/s/B1zCbjLOz#130418-B-%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE)
 * [Графы. Получи дерево](https://informatics.msk.ru/mod/statements/view3.php?id=261&chapterid=182)
 * [Комбинаторика. Степень перестановки](https://informatics.msk.ru/mod/statements/view3.php?id=265&chapterid=196#1)
 ## 1 курс 1 семестр МКН. 2017-2018 гг. 
