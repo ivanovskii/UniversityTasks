@@ -20,7 +20,7 @@
 * Комбинаторика. [Задача F](https://informatics.msk.ru/mod/statements/view3.php?id=211&chapterid=85#1). Все перестановки заданной длины. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Combinatorics/GenerationPermutations.cpp)
 * Комбинаторика. [Задача D](https://informatics.msk.ru/mod/statements/view3.php?id=264&chapterid=194#1). Следующая... [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Combinatorics/NextPermutation.cpp)
 * Комбинаторика. [Задача M](https://informatics.msk.ru/mod/statements/view3.php?id=211&chapterid=92#1). Разбиение на неубывающие слагаемые, обратный порядок. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Combinatorics/DecompositionIntoTerms.cpp)
-* Графы. Задача C. Заправки.
+* Графы. [Задача C](https://informatics.msk.ru/mod/statements/view3.php?id=193&chapterid=7#1). Заправки. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Graph/GasStation.cpp)
 * Графы. Задача D. Есть ли цикл?
 * Графы. Задача H. Два профессора.
 * Графы. Задача B. Получи дерево.
