@@ -14,9 +14,9 @@ begin
   readln(f1, k);
   while not EOF(f1) do
   begin
-    readln(f1, str); //Считываем строку
-    fname:=copy(str, 1, pos(' ', str)); //Запоминаем фамилию
-    delete(str, 1, length(fname)); //Удаляем из строки
+    readln(f1, str); //Г‘Г·ГЁГІГ»ГўГ ГҐГ¬ Г±ГІГ°Г®ГЄГі
+    fname:=copy(str, 1, pos(' ', str)); //Г‡Г ГЇГ®Г¬ГЁГ­Г ГҐГ¬ ГґГ Г¬ГЁГ«ГЁГѕ
+    delete(str, 1, length(fname)); //Г“Г¤Г Г«ГїГҐГ¬ ГЁГ§ Г±ГІГ°Г®ГЄГЁ
     name:=copy(str, 1, pos(' ', str));
     delete(str, 1, length(name));
     val(str, n, err);
