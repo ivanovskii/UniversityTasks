@@ -49,8 +49,8 @@
 * Целочисленные алгоритмы. Задача D. Простые с одинаковой первой и последней цифрами.
 * Целочисленные алгоритмы. Задание M. Сложение длинных чисел.
 ### Языки и методы программирования. Кан Владимир Алексеевич.
-* Динамические массивы. [Задача B](//http://informatics.mccme.ru/mod/statements/view3.php?id=11545&chapterid=112483). Сортировка массива неизвестной длины - 2. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/SimpleTasks/SortingOfDinArr)
-* Динамические массивы. Задача F. Сжатие массива неизвестной длины.
+* Динамические массивы. [Задача B](http://informatics.mccme.ru/mod/statements/view3.php?id=11545&chapterid=112483). Сортировка массива неизвестной длины - 2. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/SimpleTasks/SortingOfDinArr)
+* Динамические массивы. [Задача F](http://informatics.mccme.ru/mod/statements/view3.php?id=11545&chapterid=112487). Сжатие массива неизвестной длины. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/SimpleTasks/DinArrCompact)
 * Структуры. [Задача C](http://informatics.mccme.ru/mod/statements/view3.php?id=279&chapterid=324). Диаметр множества. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/DiameterOfSet.pas)
 * Структуры. [Задача F](https://informatics.msk.ru/mod/statements/view3.php?id=279&chapterid=327). Максимальная площадь. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/MaxArea.pas)
 * Работа с файлами. Задача B. Минимум и максимум в файле.
