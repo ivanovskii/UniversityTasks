@@ -1,0 +1,32 @@
+#include <iostream>
+#include <vector>
+
+void inputMatrix(std::vector <std::vector <int>> &matrix, int size)
+{
+	for (int i = 0; i < size; i++) for (int j = 0; j < size; j++) std::cin >> matrix[i][j];
+}
+
+void showList(std::vector <int> list)
+{
+	if (list.empty()) std::cout << 0 << std::endl;
+	else
+	{
+		for (int i = 0; i < list.size(); i++) std::cout << list[i] << " ";
+		std::cout << "\n";
+	}
+}
+
+int main()
+{
+	int size;
+	std::cin >> size;
+	std::vector <std::vector <int>> matrix(size, std::vector <int> (size));
+	inputMatrix(matrix, size);
+	for (int i = 0; i < size; i++)
+	{
+		std::vector <int> newList;
+		for (int j = 0; j < size; j++) if (matrix[i][j] != 0) newList.push_back(j+1);
+		showList(newList);
+	}
+	system("pause");
+}
