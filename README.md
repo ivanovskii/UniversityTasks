@@ -3,14 +3,23 @@
 ---
 ## 1 курс 2 семестр МКН. 2017-2018 гг.
 ### Практикум по алгоритмизации. Малыкина Ирина Анатольевна. [[Задания]](https://drive.google.com/open?id=18UbFNCUJ2Sc6g4-9_Bve2ceStadzEuvf)
-* Матрица смежности графа в список ребер.
-* Список ребер графа в матрицу смежности.
-* Остовное дерево.
-* Транзитивное замыкание.
-* Алгоритм Дейкстры.
-* Определение выпуклости многоугольника, заданного на координатной плоскости.
-* Машинки.
-* Минимальная окружность, покрывающее заданное множество точек.
+* Графы. [Задача A](https://informatics.msk.ru/mod/statements/view3.php?id=11743&chapterid=112628#1). Матрица смежности графа в список ребер. [[**С++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Graph/ListsFromAdjacencyMatrix)
+* Графы. [Задача B](https://informatics.msk.ru/mod/statements/view3.php?id=11743&chapterid=112629#1). Список ребер графа в матрицу смежности. [[**С++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Graph/AdjacenceMatrixFromLists.cpp)
+* Графы. [Задача F](https://informatics.mccme.ru/mod/statements/view3.php?id=261&chapterid=1377#1) .Остовное дерево. Алгоритм Краскала. [[**С++**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/Graph/SpanningTree)
+* Графы. [Задача G](https://informatics.mccme.ru/mod/statements/view3.php?id=218&chapterid=1332#1).Транзитивное замыкание. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Graph/TransitiveClosure.cpp)
+* Определение выпуклости многоугольника и его площади, заданного на координатной плоскости. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Geometry/PolygonIsConvex.cpp)
+* Машинки. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/ConsoleCars)
+* Минимальная окружность, покрывающее заданное множество точек. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/Geometry/MinDisk)
+###### Не выполненные:
+* Хеш-таблицы с открытой адресацией
+* [Pink Floid](https://informatics.mccme.ru/mod/statements/view3.php?id=218&chapterid=2598#1)
+* Графы. Алгоритм Дейкстры
+* Задача на минимум суммы
+* Задача о наибольшем потоке
+* Задача о наибольшем паросочетании
+* Задача Штейнера
+* [Простое уравнениe](https://informatics.mccme.ru/mod/statements/view3.php?id=1509&chapterid=3194)
+* Синтаксический разбор оператора присваивания вида: <имя_переменной> := <выражение>;
 ### Языки и методы программирования. Коваленко Евгений Олегович. [[Сайт]](https://hackmd.io/s/B1zCbjLOz#)
 * Хеш-таблица методом цепочек. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/HashTables/HashTable_with_chains)
 * Двоичное дерево поиска. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/Trees/BinarySearchThree)
@@ -22,7 +31,7 @@
 * Графы. [Задача C](https://informatics.msk.ru/mod/statements/view3.php?id=193&chapterid=7#1). Заправки. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Graph/GasStation.cpp)
 * Графы. [Задача D](https://informatics.msk.ru/mod/statements/view3.php?id=218&chapterid=98#1). Есть ли цикл? [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Graph/isCycle.cpp)
 * Графы. [Задача H](https://informatics.msk.ru/mod/statements/view3.php?id=218&chapterid=1334). Два профессора. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Graph/2Proffesors.cpp)
-* Функции. Решение f(x) = 0. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/NumericalAlgorithms)
+* Функции. Решение f(x) = 0 (бинарный поиск, метод хорд и касательных). [[**C++**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/NumericalAlgorithms)
 * Задача коммивояжёра (обычный перебор). [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Graph/TravelingSalesmanProblem/TravellingSalesman.cpp)
 * RLE сжатие. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/CompressionAlgorithms/RLE)
 * Кодирование Хаффмана. 
