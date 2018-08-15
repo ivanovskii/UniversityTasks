@@ -48,6 +48,11 @@
 * Целочисленные алгоритмы. [Задача A](https://informatics.msk.ru/mod/statements/view3.php?id=11528&chapterid=112450#1). Решето Эратосфена. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/EratosthenesSieve.cpp)
 * Целочисленные алгоритмы. [Задача D](https://informatics.msk.ru/mod/statements/view3.php?id=11528&chapterid=112453). Простые с одинаковой первой и последней цифрами. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/SimpleNum%20(same%20f%20and%20l).cpp)
 * Целочисленные алгоритмы. [Задача M](https://informatics.msk.ru/mod/statements/view3.php?id=11528&chapterid=112462). Сложение длинных чисел. [[**Python**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/SumOf2Num.py)
+##### Не выполненные:
+* [Разрезанный прямоугольник](https://informatics.msk.ru/mod/statements/view3.php?id=1157&chapterid=458#1)
+* [Деление длинного на короткое](https://informatics.msk.ru/mod/statements/view3.php?id=11528&chapterid=112465#1)
+* [Проверка на неориентированность](https://informatics.mccme.ru/mod/statements/view.php?id=7868)
+* [XOR](https://informatics.msk.ru/mod/statements/view3.php?id=&chapterid=112792#1)
 ### Языки и методы программирования. Кан Владимир Алексеевич.
 * Динамические массивы. [Задача B](http://informatics.mccme.ru/mod/statements/view3.php?id=11545&chapterid=112483). Сортировка массива неизвестной длины - 2. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/SimpleTasks/SortingOfDinArr/SortingOfDinArr.pas)
 * Динамические массивы. [Задача F](http://informatics.mccme.ru/mod/statements/view3.php?id=11545&chapterid=112487). Сжатие массива неизвестной длины. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/SimpleTasks/DinArrCompact/DinArrCompact.pas)
