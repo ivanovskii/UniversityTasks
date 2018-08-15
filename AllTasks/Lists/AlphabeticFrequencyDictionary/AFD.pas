@@ -13,22 +13,22 @@ var
   F: text;
   count: integer;
 
-function GetWord(F: Text): string; //Ôóíêöèÿ ñ÷èòûâàþùàÿ ñëîâî èç ôàéëà
+function GetWord(F: Text): string;
 var
   c: char;
 begin
-  Result := ''; //ïóñòàÿ ñòðîêà
-  c := ' '; //ïðîáåë – ÷òîáû âîéòè â öèêë
-  while not eof(f) and (c <= ' ') do //ïðîïóñêàåì ñïåöñèìâîëû è ïðîáåëû
+  Result := '';
+  c := ' ';
+  while not eof(f) and (c <= ' ') do
     read(F, c);  
-  while not eof(f) and (c > ' ') do //÷èòàåì ñëîâî
+  while not eof(f) and (c > ' ') do
   begin
     Result += c;
     read(F, c);
   end;
 end;
 
-function Find(Head: PNode; NewWord: string): PNode; //Âîçâðàùàåò óêàçàòåëü íà óçåë, â êîòîðîì äàííûå ðàâíû ñòðîêîâîìó ïàðàìåòðó
+function Find(Head: PNode; NewWord: string): PNode;
 var
   q: PNode;
 begin
@@ -38,7 +38,7 @@ begin
   Result := q;
 end;
 
-function CreateNode(NewWord: string): PNode; //Ñîçäàþùàÿ óçåë è âîçâðàùàþùàÿ óêàçàòåëü íà íåãî
+function CreateNode(NewWord: string): PNode;
 var
   NewNode: PNode;
 begin
@@ -49,7 +49,7 @@ begin
   Result := NewNode;
 end;
 
-function FindPlace(Head: PNode; NewWord: string): PNode; //Âîçâðàùàåò óêàçàòåëü íà ïîñëåäíèé ýëåìåíò â àëôàâèòíîì ïîðÿäêå
+function FindPlace(Head: PNode; NewWord: string): PNode;
 var
   q: PNode;
 begin
@@ -59,13 +59,13 @@ begin
   Result := q;
 end;
 
-procedure AddFirst(var Head: PNode; NewNode: PNode); //Ïðîöåäóðà äîáàâëåíèÿ óçëà â íà÷àëî ñïèñêà
+procedure AddFirst(var Head: PNode; NewNode: PNode);
 begin
   NewNode^.next := Head;
   Head := NewNode;
 end;
 
-procedure AddAfter(p, NewNode: PNode ); //Ïðîöåäóðà äîáàâëåíèå óçëà ïîñëå çàäàííîãî
+procedure AddAfter(p, NewNode: PNode );
 begin
   NewNode^.next := p^.next;
   p^.next := NewNode;
@@ -80,7 +80,7 @@ begin
     AddFirst(Head, NewNode )
   else
   begin
-    while (temp <> nil) and (temp^.next <> q) do //íàõîäèì ïðåäûäóùèé óçåë
+    while (temp <> nil) and (temp^.next <> q) do
       temp := temp^.next;
     if temp <> nil then AddAfter(temp, NewNode);
   end;
