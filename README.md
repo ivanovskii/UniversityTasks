@@ -48,7 +48,9 @@
 * Целочисленные алгоритмы. [Задача A](https://informatics.msk.ru/mod/statements/view3.php?id=11528&chapterid=112450#1). Решето Эратосфена. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/EratosthenesSieve.cpp)
 * Целочисленные алгоритмы. [Задача D](https://informatics.msk.ru/mod/statements/view3.php?id=11528&chapterid=112453). Простые с одинаковой первой и последней цифрами. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/SimpleNum%20(same%20f%20and%20l).cpp)
 * Целочисленные алгоритмы. [Задача M](https://informatics.msk.ru/mod/statements/view3.php?id=11528&chapterid=112462). Сложение длинных чисел. [[**Python**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/SumOf2Num.py)
-##### Не выполненные:
+
+
+  **Не выполненные:**
 * [Разрезанный прямоугольник](https://informatics.msk.ru/mod/statements/view3.php?id=1157&chapterid=458#1)
 * [Деление длинного на короткое](https://informatics.msk.ru/mod/statements/view3.php?id=11528&chapterid=112465#1)
 * [Проверка на неориентированность](https://informatics.mccme.ru/mod/statements/view.php?id=7868)
