@@ -32,30 +32,30 @@
 ## 1 курс 1 семестр МКН. 2017-2018 гг. 
 ###### _ИВТ -> МКН_
 ### ООП. Коваленко Евгений Олегович. [[Сайт]](https://hackmd.io/s/ByuCAi-pW#)
-* Задача P. Ходы ферзя. 
+* [Задача P](https://informatics.mccme.ru/mod/statements/view3.php?id=5765&chapterid=111377). Ходы ферзя. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/Chess.pas)
 ### Практикум по алгоритмизации. Малыкина Ирина Анатольевна.
-* Ветвления. Задача Q. Точка 8.
-* Геометрия. Задача K. В каком ухе жужжит?
-* Задача №128. Определить значение бита.
-* Задача №129. Вывести значение байта побитно.
-* Массивы. Задача G. Переставить элементы в обратном порядке.
-* Массивы. Задача O. Шарики.
-* Множества. Задача A. Пунктуация.
-* Процедуры. Задача N. Нега-двоичная система.
-* Типы данных. Задача L. Шифр Юлия.
-* Циклы. Задача S. Модифицированный алгоритм Евклида.
-* Циклы. Задача AD. Мастика.
-* Целочисленные алгоритмы. Задача A. Решето Эратосфена.
-* Целочисленные алгоритмы. Задача D. Простые с одинаковой первой и последней цифрами.
-* Целочисленные алгоритмы. Задание M. Сложение длинных чисел.
+* Ветвления. [Задача Q](https://informatics.msk.ru/mod/statements/view3.php?id=11144&chapterid=112172#1). Точка 8. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/Point8.cpp)
+* Геометрия. [Задача K](). В каком ухе жужжит? [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/Humming.cpp)
+* [Задача №128](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=128). Определить значение бита. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/BitValue.cpp)
+* [Задача №129](http://informatics.mccme.ru/mod/statements/view3.php?chapterid=129). Вывести значение байта побитно. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/ByteValBitByBit.cpp)
+* Массивы. [Задача G](https://informatics.msk.ru/mod/statements/view3.php?id=208&chapterid=69#1). Переставить элементы в обратном порядке. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/ReverseArr.cpp)
+* Массивы. [Задача O](http://informatics.mccme.ru/mod/statements/view3.php?id=208&chapterid=1461). Шарики. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/Balls.cpp)
+* Множества. [Задача A](https://informatics.msk.ru/mod/statements/view3.php?id=11544&chapterid=112470#1). Пунктуация. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/Punctuation.cpp)
+* Процедуры. [Задача N](https://informatics.msk.ru/mod/statements/view3.php?id=11146&chapterid=112187#1). Нега-двоичная система. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/BinarySystem.cpp)
+* Типы данных. [Задача L](https://informatics.msk.ru/mod/statements/view3.php?id=248&chapterid=1415#1). Шифр Юлия. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/code_Jilia.cpp)
+* Циклы. [Задача S](https://informatics.msk.ru/mod/statements/view3.php?id=11145&chapterid=112220#1). Модифицированный алгоритм Евклида. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/Eucid's_Algorithm.cpp)
+* Циклы. [Задача AD](https://informatics.msk.ru/mod/statements/view3.php?id=11145&chapterid=112231#1). Мастика. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/Mastic.cpp)
+* Целочисленные алгоритмы. [Задача A](https://informatics.msk.ru/mod/statements/view3.php?id=11528&chapterid=112450#1). Решето Эратосфена. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/EratosthenesSieve.cpp)
+* Целочисленные алгоритмы. [Задача D](https://informatics.msk.ru/mod/statements/view3.php?id=11528&chapterid=112453). Простые с одинаковой первой и последней цифрами. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/SimpleNum%20(same%20f%20and%20l).cpp)
+* Целочисленные алгоритмы. [Задача M](https://informatics.msk.ru/mod/statements/view3.php?id=11528&chapterid=112462). Сложение длинных чисел. [[**Python**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/SumOf2Num.py)
 ### Языки и методы программирования. Кан Владимир Алексеевич.
-* Динамические массивы. [Задача B](http://informatics.mccme.ru/mod/statements/view3.php?id=11545&chapterid=112483). Сортировка массива неизвестной длины - 2. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/SimpleTasks/SortingOfDinArr)
-* Динамические массивы. [Задача F](http://informatics.mccme.ru/mod/statements/view3.php?id=11545&chapterid=112487). Сжатие массива неизвестной длины. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/SimpleTasks/DinArrCompact)
+* Динамические массивы. [Задача B](http://informatics.mccme.ru/mod/statements/view3.php?id=11545&chapterid=112483). Сортировка массива неизвестной длины - 2. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/SimpleTasks/SortingOfDinArr/SortingOfDinArr.pas)
+* Динамические массивы. [Задача F](http://informatics.mccme.ru/mod/statements/view3.php?id=11545&chapterid=112487). Сжатие массива неизвестной длины. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/SimpleTasks/DinArrCompact/DinArrCompact.pas)
 * Структуры. [Задача C](http://informatics.mccme.ru/mod/statements/view3.php?id=279&chapterid=324). Диаметр множества. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/DiameterOfSet.pas)
 * Структуры. [Задача F](https://informatics.msk.ru/mod/statements/view3.php?id=279&chapterid=327). Максимальная площадь. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/MaxArea.pas)
-* Работа с файлами. [Задача B](https://informatics.msk.ru/mod/statements/view3.php?id=11405&chapterid=112392). Минимум и максимум в файле. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/SimpleTasks/MinMaxInFile)
-* Работа с файлами. [Задача I](https://informatics.msk.ru/mod/statements/view3.php?id=11405&chhttp://informatics.mccme.ru/mod/statements/view3.php?id=11405&chapterid=112399apterid=112392). Кто прошел на следующий тур? [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/SimpleTasks/NextTour)
-* Работа с файлами. [Задача L](https://informatics.msk.ru/mod/statements/view3.php?id=11405&chapterid=112402). Второй тур-4. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/SimpleTasks/NextTour4)
+* Работа с файлами. [Задача B](https://informatics.msk.ru/mod/statements/view3.php?id=11405&chapterid=112392). Минимум и максимум в файле. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/SimpleTasks/MinMaxInFile/MinMaxInFile.pas)
+* Работа с файлами. [Задача I](https://informatics.msk.ru/mod/statements/view3.php?id=11405&chhttp://informatics.mccme.ru/mod/statements/view3.php?id=11405&chapterid=112399apterid=112392). Кто прошел на следующий тур? [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/SimpleTasks/NextTour/NextTour.pas)
+* Работа с файлами. [Задача L](https://informatics.msk.ru/mod/statements/view3.php?id=11405&chapterid=112402). Второй тур-4. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/SimpleTasks/NextTour4/NextTour4.pas)
 * Реализация стека. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/DataStructures/Stack.pas) [[**С++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/DataStructures/Stack.cpp)
 * Реализация очереди. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/DataStructures/Queue.pas)
 * Реализация списка. Алфавитно-частотный словарь. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/DataStructures/Lists)
