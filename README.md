@@ -59,4 +59,4 @@
 * Реализация стека. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/DataStructures/Stack.pas) [[**С++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/DataStructures/Stack.cpp)
 * Реализация очереди. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/DataStructures/Queue.pas)
 * Реализация списка. Алфавитно-частотный словарь. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/tree/master/AllTasks/DataStructures/Lists)
-* Реализация дека. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/DataStructures/Deque.pas)
+* Реализация дека. Моделирование колоды карт. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/DataStructures/Deque.pas)
