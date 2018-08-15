@@ -21,15 +21,15 @@
 * Комбинаторика. [Задача D](https://informatics.msk.ru/mod/statements/view3.php?id=264&chapterid=194#1). Следующая... [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Combinatorics/NextPermutation.cpp)
 * Комбинаторика. [Задача M](https://informatics.msk.ru/mod/statements/view3.php?id=211&chapterid=92#1). Разбиение на неубывающие слагаемые, обратный порядок. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Combinatorics/DecompositionIntoTerms.cpp)
 * Графы. [Задача C](https://informatics.msk.ru/mod/statements/view3.php?id=193&chapterid=7#1). Заправки. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Graph/GasStation.cpp)
-* Графы. Задача D. Есть ли цикл?
-* Графы. Задача H. Два профессора.
-* Графы. Задача B. Получи дерево.
+* Графы. [Задача D](https://informatics.msk.ru/mod/statements/view3.php?id=218&chapterid=98#1). Есть ли цикл? [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Graph/isCycle.cpp)
+* Графы. [Задача H](https://informatics.msk.ru/mod/statements/view3.php?id=218&chapterid=1334). Два профессора. [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Graph/2Proffesors.cpp)
 * Функции. Решение f(x) = 0.
 * Задача коммивояжёра (обычный перебор).
 * RLE сжатие.
 * Кодирование Хаффмана. 
 ###### Не выполненные:
-* [Степень перестановки](https://informatics.msk.ru/mod/statements/view3.php?id=265&chapterid=196#1)
+* [Графы. Получи дерево](https://informatics.msk.ru/mod/statements/view3.php?id=261&chapterid=182)
+* [Комбинаторика. Степень перестановки](https://informatics.msk.ru/mod/statements/view3.php?id=265&chapterid=196#1)
 ## 1 курс 1 семестр МКН. 2017-2018 гг. 
 ###### _ИВТ -> МКН_
 ### ООП. Коваленко Евгений Олегович. [[Сайт]](https://hackmd.io/s/ByuCAi-pW#)
