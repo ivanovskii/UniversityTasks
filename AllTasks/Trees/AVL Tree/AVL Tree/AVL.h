@@ -2,7 +2,7 @@ class AVL
 {
 private:
 
-	struct node // структура для представления узлов дерева
+	struct node
 	{
 		int key;
 		unsigned char height;
@@ -37,8 +37,7 @@ public:
 		unsigned char hr = height(p->right);
 		p->height = (hl>hr ? hl : hr) + 1;
 	}
-
-	// Правый поворот вокруг p
+	
 	node* rotateright(node* p)
 	{
 		node* q = p->left;
@@ -49,7 +48,6 @@ public:
 		return q;
 	}
 	
-	// Левый поворот вокруг q
 	node* rotateleft(node* q)
 	{
 		node* p = q->right;
@@ -60,7 +58,6 @@ public:
 		return p;
 	}
 	
-	// Балансировка узла p
 	node* balance(node* p)
 	{
 		fixheight(p);
@@ -76,16 +73,14 @@ public:
 				p->left = rotateleft(p->left);
 			return rotateright(p);
 		}
-		return p; // балансировка не нужна
+		return p;
 	}
 
-	// Обертка над методом вставки (отправляет указатель на корень)
 	void insert(int k)
 	{
 		root = insert(root, k);
 	}
 
-	// Вставка ключа k в дерево с корнем p
 	node* insert(node* p, int k)
 	{
 		if (root == nullptr) return root = new node(k);
@@ -97,13 +92,11 @@ public:
 		return balance(p);
 	}
 
-	// Поиск узла с минимальным ключом в дереве p
 	node* findmin(node* p)
 	{
 		return (p->left ? findmin(p->left) : p);
 	}
 
-	// Удаление узла с минимальным ключом из дерева p
 	node* removemin(node* p)
 	{
 		if (p->left == 0)
@@ -117,7 +110,7 @@ public:
 		root = remove(root, k);
 	}
 
-	node* remove(node* p, int k) // удаление ключа k из дерева p
+	node* remove(node* p, int k)
 	{
 		if (!p) return 0;
 		if (k < p->key)
