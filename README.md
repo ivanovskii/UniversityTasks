@@ -1,18 +1,18 @@
 ## 2 курс 1 семестр МКН. 2018-2019 гг.
 ### Практикум по алгоритмизации. Журавлев Павел Викторович.
 * Поиск подстроки в строке:
-  - Наивная реализация [[**C++**]]()
-  - Алгоритм Кнута-Морриса-Пратта [[**C++**]]()
-  - Алгоритм Боейра-Мура-Хорспула [[**C++**]]()
-  - Алгоритм Рабина-Карпа [[**C++**]]()
-  - Алгоритм Ахо-Корасика [[**C++**]]()
+  - Наивная реализация [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SubstringSearching/Brute%20Force%20algorithm.cpp)
+  - Алгоритм Кнута-Морриса-Пратта [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SubstringSearching/Knuth-Morris-Pratt%20Algorithm.cpp)
+  - Алгоритм Боейра-Мура-Хорспула [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SubstringSearching/Boyer-Mour-Horspul%20Algorithm.cpp)
+  - Алгоритм Рабина-Карпа [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SubstringSearching/Rabin-Karp%20algorithm.cpp)
 * Пересекающиеся отрезки:
-  - На прямой [[**C++**]]()
+  - На прямой [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SegmentIntersection(InR1).cpp)
   - На плоскости [[**C++**]]()
 ### Языки и методы программирования. Спорышев Максим Сергеевич.
-* PrimeNumberGenerator. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-1851394.html?sid=vrogmuX7NJyP5vh01BpQvsDKAVnXlV). [[**C++**]]()
-* Date. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-1854592.html?sid=vrogmuX7NJyP5vh01BpQvsDKAVnXlV). [[**C++**]]()
-* Set. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-1854609.html?sid=vrogmuX7NJyP5vh01BpQvsDKAVnXlV). [[**C++**]]()
+* PrimeNumberGenerator. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-1851394.html?sid=vrogmuX7NJyP5vh01BpQvsDKAVnXlV). [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/PrimeNumberGenerator.h)
+* Date. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-1854592.html?sid=vrogmuX7NJyP5vh01BpQvsDKAVnXlV). [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Date.h)
+* Set. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-1854609.html?sid=vrogmuX7NJyP5vh01BpQvsDKAVnXlV). [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Set.h)
+* GameDatabase. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-1930762.html?sid=GnjKf9PbKbfMKBUS8OIcBtQ37GuXb7). [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/GameDatabase.h)
 ---
 ## 1 курс 2 семестр МКН. 2017-2018 гг.
 ### Практикум по алгоритмизации. Малыкина Ирина Анатольевна. [[Задания]](https://drive.google.com/open?id=18UbFNCUJ2Sc6g4-9_Bve2ceStadzEuvf)
