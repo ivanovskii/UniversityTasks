@@ -8,17 +8,17 @@
 * Пересекающиеся отрезки:
   - На прямой [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SegmentIntersection(InR1).cpp)
   - На плоскости [[**C++**]]()
-### Языки и методы программирования. Спорышев Максим Сергеевич.
-* [**Турнир №1:**](https://imcs.dvfu.ru/cats/main.pl?f=problems;cid=1851161;sid=Y2RygiNHsAOzS7HOWbsxM3fNYbPePQ)
+### Языки и методы программирования. Спорышев Максим Сергеевич. [Cats](https://imcs.dvfu.ru/cats/)
+* Программирование на C++. Турнир 1:
   - PrimeNumberGenerator. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-1851394.html?sid=vrogmuX7NJyP5vh01BpQvsDKAVnXlV). [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/PrimeNumberGenerator.h)
   - Date. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-1854592.html?sid=vrogmuX7NJyP5vh01BpQvsDKAVnXlV). [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Date.h)
   - Set. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-1854609.html?sid=vrogmuX7NJyP5vh01BpQvsDKAVnXlV). [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Set.h)
-* [**Турнир №2:**](https://imcs.dvfu.ru/cats/main.pl?f=problems;cid=1890098;sid=Y2RygiNHsAOzS7HOWbsxM3fNYbPePQ)
+* Программирование на C++. Турнир 2:
   - GameDatabase. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-1930762.html?sid=GnjKf9PbKbfMKBUS8OIcBtQ37GuXb7). [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/GameDatabase.h)
   - FixedAllocator. [Условие](). [[**C++**]]()
-* [**Турнир №3:**](https://imcs.dvfu.ru/cats/main.pl?f=problems;cid=2069453;sid=Y2RygiNHsAOzS7HOWbsxM3fNYbPePQ)
+* Программирование на C++. Турнир 3:
   - Binary/linear search. [Условие](). [[**C++**]]()
-* [**Турнир №4**](https://imcs.dvfu.ru/cats/main.pl?f=problems;cid=2154206;sid=Y2RygiNHsAOzS7HOWbsxM3fNYbPePQ)
+* Программирование на C++. Турнир 4:
   - CaesarEncrypt. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-2170797.html?sid=Y2RygiNHsAOzS7HOWbsxM3fNYbPePQ). [[**C++**]]()
   - Multithreaded Matrix Multiplication. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-2169036.html?sid=Y2RygiNHsAOzS7HOWbsxM3fNYbPePQ). [[**C++**]]()
   - Thread-safe Queue. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-2169068.html?sid=Y2RygiNHsAOzS7HOWbsxM3fNYbPePQ). [[**C++**]]()
