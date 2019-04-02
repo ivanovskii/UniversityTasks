@@ -7,7 +7,7 @@
   - Алгоритм Рабина-Карпа [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SubstringSearching/Rabin-Karp%20algorithm.cpp)
 * Пересекающиеся отрезки:
   - На прямой [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SegmentIntersection(InR1).cpp)
-  - На плоскости [[**C++**]]()
+  - На плоскости [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SegmentIntersection(InR2).cpp)
 ### Языки и методы программирования. Спорышев Максим Сергеевич. [Cats](https://imcs.dvfu.ru/cats/)
 * Программирование на C++. Турнир 1:
   - PrimeNumberGenerator. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-1851394.html?sid=vrogmuX7NJyP5vh01BpQvsDKAVnXlV). [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/PrimeNumberGenerator.h)
@@ -15,14 +15,14 @@
   - Set. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-1854609.html?sid=vrogmuX7NJyP5vh01BpQvsDKAVnXlV). [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Set.h)
 * Программирование на C++. Турнир 2:
   - GameDatabase. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-1930762.html?sid=GnjKf9PbKbfMKBUS8OIcBtQ37GuXb7). [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/GameDatabase.h)
-  - FixedAllocator. [Условие](). [[**C++**]]()
+  - FixedAllocator. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-1896576.html?sid=fb4pBbmYZd8NwwkNVGXnSH3Lmtwuna). [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/FixedAllocator.h)
 * Программирование на C++. Турнир 3:
   - Binary/linear search. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-2123755.html?sid=fb4pBbmYZd8NwwkNVGXnSH3Lmtwuna). [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Binary_or_linear_search.cpp)
 * Программирование на C++. Турнир 4:
-  - CaesarEncrypt. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-2170797.html?sid=Y2RygiNHsAOzS7HOWbsxM3fNYbPePQ). [[**C++**]]()
-  - Multithreaded Matrix Multiplication. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-2169036.html?sid=Y2RygiNHsAOzS7HOWbsxM3fNYbPePQ). [[**C++**]]()
-  - Thread-safe Queue. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-2169068.html?sid=Y2RygiNHsAOzS7HOWbsxM3fNYbPePQ). [[**C++**]]()
-  - Semaphore. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-2163008.html?sid=Y2RygiNHsAOzS7HOWbsxM3fNYbPePQ). [[**C++**]]()
+  - CaesarEncrypt. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-2170797.html?sid=Y2RygiNHsAOzS7HOWbsxM3fNYbPePQ). [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/CaesarEncrypt.cpp)
+  - Multithreaded Matrix Multiplication. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-2169036.html?sid=Y2RygiNHsAOzS7HOWbsxM3fNYbPePQ). [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/DenseMat.h)
+  - Thread-safe Queue. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-2169068.html?sid=Y2RygiNHsAOzS7HOWbsxM3fNYbPePQ). [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Thread-safe_Queue.h)
+  - Semaphore. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-2163008.html?sid=Y2RygiNHsAOzS7HOWbsxM3fNYbPePQ). [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Semaphore.h)
 ---
 ## 1 курс 2 семестр МКН. 2017-2018 гг.
 ### Практикум по алгоритмизации. Малыкина Ирина Анатольевна. [[Задания]](https://drive.google.com/open?id=18UbFNCUJ2Sc6g4-9_Bve2ceStadzEuvf)
