@@ -17,7 +17,7 @@
   - GameDatabase. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-1930762.html?sid=GnjKf9PbKbfMKBUS8OIcBtQ37GuXb7). [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/GameDatabase.h)
   - FixedAllocator. [Условие](). [[**C++**]]()
 * Программирование на C++. Турнир 3:
-  - Binary/linear search. [Условие](). [[**C++**]]()
+  - Binary/linear search. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-2123755.html?sid=fb4pBbmYZd8NwwkNVGXnSH3Lmtwuna). [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Binary_or_linear_search.cpp)
 * Программирование на C++. Турнир 4:
   - CaesarEncrypt. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-2170797.html?sid=Y2RygiNHsAOzS7HOWbsxM3fNYbPePQ). [[**C++**]]()
   - Multithreaded Matrix Multiplication. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-2169036.html?sid=Y2RygiNHsAOzS7HOWbsxM3fNYbPePQ). [[**C++**]]()
