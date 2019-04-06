@@ -8,7 +8,7 @@
 * Пересекающиеся отрезки:
   - На прямой [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SegmentIntersection(InR1).cpp)
   - На плоскости [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SegmentIntersection(InR2).cpp)
-### Языки и методы программирования. Спорышев Максим Сергеевич. [Cats](https://imcs.dvfu.ru/cats/)
+### Языки и методы программирования. Спорышев Максим Сергеевич. [[Cats]](https://imcs.dvfu.ru/cats/) [[Results]](https://docs.google.com/spreadsheets/d/1xjheFpcEookNTjz4_fJ4G59zHL_O9pIlNpTRiW68nc4/edit#gid=14562474)
 * Программирование на C++. Турнир 1:
   - PrimeNumberGenerator. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-1851394.html?sid=vrogmuX7NJyP5vh01BpQvsDKAVnXlV). [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/PrimeNumberGenerator.h)
   - Date. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-1854592.html?sid=vrogmuX7NJyP5vh01BpQvsDKAVnXlV). [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Date.h)
