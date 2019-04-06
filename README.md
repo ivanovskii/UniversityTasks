@@ -1,4 +1,4 @@
-## 2 курс 1 семестр МКН. 2018-2019 гг.
+## 3 семестр МКН. 2018-2019 гг.
 ### Практикум по алгоритмизации. Журавлев Павел Викторович.
 * Поиск подстроки в строке:
   - Наивная реализация [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SubstringSearching/Brute%20Force%20algorithm.cpp)
@@ -24,7 +24,7 @@
   - Thread-safe Queue. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-2169068.html?sid=Y2RygiNHsAOzS7HOWbsxM3fNYbPePQ). [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Thread-safe_Queue.h)
   - Semaphore. [Условие](https://imcs.dvfu.ru/cats/static/problem_text-cpid-2163008.html?sid=Y2RygiNHsAOzS7HOWbsxM3fNYbPePQ). [[**C++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Semaphore.h)
 ---
-## 1 курс 2 семестр МКН. 2017-2018 гг.
+## 2 семестр МКН. 2017-2018 гг.
 ### Практикум по алгоритмизации. Малыкина Ирина Анатольевна. [[Задания]](https://drive.google.com/open?id=18UbFNCUJ2Sc6g4-9_Bve2ceStadzEuvf)
 * Графы. [Задача A](https://informatics.msk.ru/mod/statements/view3.php?id=11743&chapterid=112628#1). Матрица смежности графа в список ребер. [[**С++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Graph/ListsFromAdjacencyMatrix)
 * Графы. [Задача B](https://informatics.msk.ru/mod/statements/view3.php?id=11743&chapterid=112629#1). Список ребер графа в матрицу смежности. [[**С++**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/Graph/AdjacenceMatrixFromLists.cpp)
@@ -63,7 +63,7 @@
 * [Реализация Б-деревьев](https://hackmd.io/s/B1zCbjLOz#130418-B-%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE)
 * [Графы. Получи дерево](https://informatics.msk.ru/mod/statements/view3.php?id=261&chapterid=182)
 * [Комбинаторика. Степень перестановки](https://informatics.msk.ru/mod/statements/view3.php?id=265&chapterid=196#1)
-## 1 курс 1 семестр МКН. 2017-2018 гг. 
+## 1 семестр МКН. 2017-2018 гг. 
 ###### _ИВТ -> МКН_
 ### ООП. Коваленко Евгений Олегович. [[Сайт]](https://hackmd.io/s/ByuCAi-pW#)
 * [Задача P](https://informatics.mccme.ru/mod/statements/view3.php?id=5765&chapterid=111377). Ходы ферзя. [[**Pascal**]](https://github.com/ivanovskii/UniversityTasks/blob/master/AllTasks/SimpleTasks/Chess.pas)
